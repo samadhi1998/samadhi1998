@@ -9,7 +9,7 @@ I'm Samadhi Jayawardena. I am someone who is passionate about Web Development. C
 - 😄 You can find my articles here: https://samadhi-jayawardena.medium.com/
 - ⚡ Technologies: HTML,php,css,javascript,bootstrap,java,C,python,Laravel
 - 🙂 Skills: Project Management, Communication, Leadership, Time Management, Creative Writing, UI designing
-- 🌎 Languages: English, Japanese, Chinese, Tamil, Sinhala (mother tounge)
+- 🌎 Languages: English, Japanese, Chinese, Korean, Tamil, Sinhala (mother tounge)
 - 🥇 Sports: Swimming, Badminton
 
 
