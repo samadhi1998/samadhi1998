@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Samadhi Jayawardena. I am someone who is passionate about Web Development. Currently I am a Second Year Undergraduate.
+I'm Samadhi Jayawardena. I am someone who is passionate about Web Development. Currently I am a Third Year Undergraduate.
 
 - 🏫 I’m currently studying at University of Moratuwa
 - 🎓 I’m reading for the BSc Hons Information Technology and Management Degree
